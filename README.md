@@ -71,7 +71,8 @@ Compares choices and updates scores
 Displays result messages dynamically
 
 📸 Screenshots:
-<img width="1920" height="1080" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/41968758-ea4f-474f-84e1-d4f1dac39fd4" />
+<img width="1807" height="815" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/a29cbf07-0f83-488b-bd4f-fa3398120f6c" />
+
 
 
 
